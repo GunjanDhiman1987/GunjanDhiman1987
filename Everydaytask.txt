@@ -1,4 +1,3 @@
 Welcome to EverydayTask
 Book Appointement
-Make Payment
 Book blood Test
